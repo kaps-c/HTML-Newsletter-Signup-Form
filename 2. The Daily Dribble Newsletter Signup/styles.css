@@ -1,0 +1,71 @@
+.header {
+    color: #121212;
+    text-align: center;
+    font-weight: bold;
+}
+
+/* generic text */
+p {
+    font-size: 15px;
+    font-style: italic;
+    text-align: center;
+}
+
+/* specifically only the image and caption */
+.img-wrapper {
+    display: block;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.stadium-img {
+    width: 380px;
+    border: 3px solid #121212;
+}
+
+.caption-txt {
+    width: 380px;
+}
+
+/* specifically only the enter email and join */
+.join-wrapper {
+    display: block;
+    width: 240px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.email-input {
+    width: 240px;
+    border: 3px solid #121212;
+    
+    display: block;
+    margin-bottom: 8px;
+    
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.join-btn {
+    width: 250px;
+    border: 3px solid #121212;
+    
+    background: #121212;
+    
+    display: block;
+    
+    padding-top: 8px;
+    padding-bottom: 8px;
+    
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    color: #FFFFFE;
+}
+
+/* terms and conditions no need extra styling*/
